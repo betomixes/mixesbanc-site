@@ -22,8 +22,11 @@ No nos hacemos responsables de errores en datos ingresados por el usuario.
 En caso de fraude, nos reservamos el derecho de bloquear la cuenta y notificar a las autoridades correspondientes.
 4. Atención al Cliente
 Si tienes dudas o problemas con tu cuenta, puedes contactarnos a través de:
+
 📧 Correo electrónico: soporte@mixesbanc.com
+
 📞 Teléfono: +52 800 MIXESBANC
+
 🕒 Horario de atención: Lunes a Viernes, 9:00 AM - 6:00 PM
 
 5. Modificaciones de las Políticas
